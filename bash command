@@ -1,0 +1,3 @@
+#bash command to remove deprecated updates from your mac server, which I genuinely feel sorry for you for running.  once you run this it will pull a list of deprecated updates and remove the offending entries from your system.
+
+sudo swupd_syncd -removeDeprecated
